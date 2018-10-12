@@ -15,7 +15,7 @@ public class Lab7 {
     public void HelloMain()
 {
     Hello hi=new Hello();
-    System.out.println(hi.messege); 
+    System.out.println(hi.messege+hi.messege2); 
     
 }
     
