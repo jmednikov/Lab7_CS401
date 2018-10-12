@@ -11,11 +11,12 @@ package lab7;
  */
 public class Lab7 {
 
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-    }
+    
+    public void HelloMain()
+{
+    Hello hi=new Hello();
+    System.out.println(hi.messege); 
+    
+}
     
 }
