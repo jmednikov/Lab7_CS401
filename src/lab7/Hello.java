@@ -11,4 +11,5 @@ package lab7;
  */
 public class Hello {
     String messege="Hi there new colder.";
+    String messege2="welcome to git.";
 }
